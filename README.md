@@ -19,7 +19,7 @@ To run this application locally, follow these steps:
 
 ## Usage
 
-This repository serves as the backend component of the Employee Management System. You can integrate it with a front-end application or create an user interface using springboot Thymeleaf dependency.Tols like Postman can be used for testing and interacting with the API.
+This repository serves as the backend component of the Employee Management System. You can integrate it with a front-end application or create an user interface using springboot Thymeleaf dependency.Tools like Postman can be used for testing and interacting with the API.
 
 ## Contributing
 
